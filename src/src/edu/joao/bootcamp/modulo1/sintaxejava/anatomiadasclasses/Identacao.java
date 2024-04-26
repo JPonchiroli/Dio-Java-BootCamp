@@ -1,4 +1,4 @@
-package edu.joao.bootcamp.modulo1.anatomiadasclasses;
+package edu.joao.bootcamp.modulo1.sintaxejava.anatomiadasclasses;
 
 public class Identacao {
     public static void main(String[] args) {
