@@ -1,4 +1,4 @@
-package edu.joao.bootcamp.modulo1.estruturascondicionais;
+package edu.joao.bootcamp.modulo1.estruturas.condicionais;
 
 public class Condicionais {
     public static void main(String[] args) {

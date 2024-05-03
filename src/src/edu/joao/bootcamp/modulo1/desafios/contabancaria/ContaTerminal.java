@@ -1,4 +1,4 @@
-package edu.joao.bootcamp.modulo1.sintaxejava.desafio;
+package edu.joao.bootcamp.modulo1.desafios.contabancaria;
 
 import java.util.Scanner;
 
