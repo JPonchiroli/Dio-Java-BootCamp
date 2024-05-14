@@ -1,4 +1,5 @@
-package edu.joao.bootcamp.modulo2.POO.Interface;
+package edu.joao.bootcamp.modulo2.POO.Interface.equipamentos.copiadora;
 
-public class Copiadora {
+public interface Copiadora {
+    public void copiar();
 }

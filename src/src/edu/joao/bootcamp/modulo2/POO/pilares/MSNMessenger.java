@@ -1,4 +1,4 @@
-package edu.joao.bootcamp.modulo2.POO.Messenger;
+package edu.joao.bootcamp.modulo2.POO.pilares;
 
 public class MSNMessenger extends ServicoDeMensagem {
     public void enviarMensagem() {

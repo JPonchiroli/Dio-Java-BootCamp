@@ -1,4 +1,5 @@
-package edu.joao.bootcamp.modulo2.POO.Interface;
+package edu.joao.bootcamp.modulo2.POO.Interface.equipamentos.digitalizadora;
 
-public class Digializadora {
+public interface Digializadora {
+    public void digitalizar();
 }

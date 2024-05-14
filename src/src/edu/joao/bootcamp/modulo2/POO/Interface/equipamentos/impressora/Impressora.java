@@ -1,4 +1,5 @@
-package edu.joao.bootcamp.modulo2.POO.Interface;
+package edu.joao.bootcamp.modulo2.POO.Interface.equipamentos.impressora;
 
-public class Impressora {
+public interface Impressora {
+    public void imprimir();
 }
