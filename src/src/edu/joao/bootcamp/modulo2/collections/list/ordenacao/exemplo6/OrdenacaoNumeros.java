@@ -23,9 +23,9 @@ public class OrdenacaoNumeros {
     }
 
     public List<Numero> ordenarDecrescente(){
-        List<Numero> ordemAscendente = new ArrayList<>(numeroList);
-        ordemAscendente.sort(Collections.reverseOrder());
-        return ordemAscendente;
+        List<Numero> ordenarDecrescente = new ArrayList<>(numeroList);
+        ordenarDecrescente.sort(Collections.reverseOrder());
+        return ordenarDecrescente;
     }
 
     public void exibirNumeros(){
