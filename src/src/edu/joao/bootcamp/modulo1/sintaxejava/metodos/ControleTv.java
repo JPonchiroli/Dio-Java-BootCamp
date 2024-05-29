@@ -2,7 +2,7 @@ package edu.joao.bootcamp.modulo1.sintaxejava.metodos;
 
 import java.util.Scanner;
 
-public class Main {
+public class ControleTv {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
