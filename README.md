@@ -9,7 +9,7 @@ Bem-vindo ao Dio Java Bootcamp. Este README fornece um sumário dos módulos pri
 ## Sumário
 
 ### Módulo 1: Dominando Linguagem de Programação Java
-1. [Sintaxe](#https://github.com/JPonchiroli/Dio-Java-BootCamp/tree/main/src/src/edu/joao/bootcamp/modulo1/sintaxejava)
+1. [Sintaxe](https://github.com/JPonchiroli/Dio-Java-BootCamp/tree/main/src/src/edu/joao/bootcamp/modulo1/sintaxejava)
 2. [Estrutura](#https://github.com/JPonchiroli/Dio-Java-BootCamp/tree/main/src/src/edu/joao/bootcamp/modulo1/estruturas)
 3. [Desafios](#https://github.com/JPonchiroli/Dio-Java-BootCamp/tree/main/src/src/edu/joao/bootcamp/modulo1/desafios)
 
