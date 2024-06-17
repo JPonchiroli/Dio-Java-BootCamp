@@ -26,3 +26,5 @@ Welcome to the Dio Java Bootcamp. This README provides a summary of the main mod
 1. [Spring Data JPA](https://github.com/JPonchiroli/dio-spring-data-jpa)
 2. [Spring Web API](https://github.com/JPonchiroli/dio-spring-web-api)
 3. [Spring Security](https://github.com/JPonchiroli/dio-spring-security)
+
+### [Final Project - Todo List - Java, API, Spring Framework, Swagger UI](https://github.com/JPonchiroli/spring-todo-list)
